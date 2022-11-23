@@ -18,7 +18,7 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.7.3",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "eslint": "^6.7.2",
     "grunt-svgstore": "^2.0.0",
     "imagemin-cli": "^5.1.0",
